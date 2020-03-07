@@ -87,7 +87,10 @@ header {
 }
 
 #reset-btn {
-  border-radius: 20%;
+  border-radius: 15px;
+  padding: 5px;
   color: #084f88;
   text-decoration: none;
+  cursor: pointer;
+  width: 80px;
 }
